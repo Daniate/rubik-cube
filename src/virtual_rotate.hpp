@@ -1,6 +1,6 @@
 #ifndef __VIRTUAL_ROTATE_H__
 #define __VIRTUAL_ROTATE_H__
-#include <GL/gl.h>
+#include <GL/glew.h>
 #include <cmath>
 #include <algorithm>
 

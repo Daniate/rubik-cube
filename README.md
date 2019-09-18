@@ -6,11 +6,15 @@ See [HERE](http://blog.miskcoo.com/2017/03/how-to-reconstruct-rubik-cube)(in Chi
 
 ![screenshot](https://raw.githubusercontent.com/miskcoo/rubik-cube/master/demo.gif)
 
+![VSCode with CMake](rubik-cube.png)
+
 ## Requirement
 
+* CMake
 * C++11 support (especially the multi-thread library)
 * OpenGL
 * GLFW
+* GLEW
 
 ## Usage
 

@@ -5,7 +5,7 @@
 #include <tuple>
 #include <queue>
 #include <algorithm>
-#include <GL/gl.h>
+#include <GL/glew.h>
 #include <GLFW/glfw3.h>
 
 namespace rubik_cube

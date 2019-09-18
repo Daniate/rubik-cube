@@ -37,3 +37,9 @@ __pycache__
 
 # Test file
 test
+
+# CMake build
+build/
+
+# Visual Studio Code
+.vscode/
